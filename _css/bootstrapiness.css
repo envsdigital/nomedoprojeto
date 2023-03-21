@@ -1,0 +1,167 @@
+/*bgs*/
+
+.bg-transparent-hover-e:hover *, .bg-transparent-e *, .bg-transparent-hover-p:hover, .bg-transparent-hover-p:hover *, .bg-transparent-p, .bg-transparent-p *, .bg-transparent-hover:hover, .bg-transparent{
+	background: transparent !important;
+}
+
+.bg-darker-hover-e:hover *, .bg-darker-e *, .bg-darker-hover-p:hover, .bg-darker-hover-p:hover *, .bg-darker-p, .bg-darker-p *, .bg-darker-hover:hover, .bg-darker{
+	background: #2a3535 !important;
+}
+
+.bg-dark-hover-e:hover *, .bg-dark-e *, .bg-dark-hover-p:hover, .bg-dark-hover-p:hover *, .bg-dark-p, .bg-dark-p *, .bg-dark-hover:hover, .bg-dark{
+	background: #343a40 !important;
+}
+
+.bg-bluish-hover-e:hover *, .bg-bluish-e *, .bg-bluish-hover-p:hover, .bg-bluish-hover-p:hover *, .bg-bluish-p, .bg-bluish-p *, .bg-bluish-hover:hover, .bg-bluish{
+	background: #006399 !important;
+}
+
+.bg-yellow-hover-e:hover *, .bg-yellow-e *, .bg-yellow-hover-p:hover, .bg-yellow-hover-p:hover *, .bg-yellow-p, .bg-yellow-p *, .bg-yellow-hover:hover, .bg-yellow{
+	background: #ffd300 !important;
+}
+
+.bg-lightyellow-hover-e:hover *, .bg-lightyellow-e *, .bg-lightyellow-hover-p:hover, .bg-lightyellow-hover-p:hover *, .bg-lightyellow-p, .bg-lightyellow-p *, .bg-lightyellow-hover:hover, .bg-lightyellow{
+	background: #fef984 !important;
+}
+
+.bg-gray-hover-e:hover *, .bg-gray-e *, .bg-gray-hover-p:hover, .bg-gray-hover-p:hover *, .bg-gray-p, .bg-gray-p *, .bg-gray-hover:hover, .bg-gray{
+	background: gray !important;
+}
+
+.bg-white-hover-e:hover *, .bg-white-e *, .bg-white-hover-p:hover, .bg-white-hover-p:hover *, .bg-white-p, .bg-white-p *, .bg-white-hover:hover, .bg-white{
+	background: white !important;
+}
+
+.bg-lightgray-hover-e:hover *, .bg-lightgray-e *, .bg-lightgray-hover-p:hover, .bg-lightgray-hover-p:hover *, .bg-lightgray-p, .bg-lightgray-p *, .bg-lightgray-hover:hover, .bg-lightgray{
+	background: lightgray !important;
+}
+
+.bg-lightblue-hover-e:hover *, .bg-lightblue-e *, .bg-lightblue-hover-p:hover, .bg-lightblue-hover-p:hover *, .bg-lightblue-p, .bg-lightblue-p *, .bg-lightblue-hover:hover, .bg-lightblue{
+	background: lightblue !important;
+}
+
+/*text colors*/
+
+.darker-text-hover-e:hover *, .darker-text-e *, .darker-text-hover-p:hover, .darker-text-hover-p:hover *, .darker-text-p, .darker-text-p *, .darker-text-hover:hover, .darker-text, .darker-text a{
+	color: #2a3535 !important;
+}
+
+.dark-text-hover-e:hover *, .dark-text-e *, .dark-text-hover-p:hover, .dark-text-hover-p:hover *, .dark-text-p, .dark-text-p *, .dark-text-hover:hover, .dark-text, .dark-text a{
+	color: #343a40 !important;
+}
+
+.bluish-text-hover-e:hover *, .bluish-text-e *, .bluish-text-hover-p:hover, .bluish-text-hover-p:hover *, .bluish-text-p, .bluish-text-p *, .bluish-text-hover:hover, .bluish-text, .bluish-text a{
+	color: #006399 !important;
+}
+
+.yellow-text-hover-e:hover *, .yellow-text-e *, .yellow-text-hover-p:hover, .yellow-text-hover-p:hover *, .yellow-text-p, .yellow-text-p *, .yellow-text-hover:hover, .yellow-text, .yellow-text a{
+	color: #ffd300 !important;
+}
+
+.lightyellow-text-hover-e:hover *, .lightyellow-text-e *, .lightyellow-text-hover-p:hover, .lightyellow-text-hover-p:hover *, .lightyellow-text-p, .lightyellow-text-p *, .lightyellow-text-hover:hover, .lightyellow-text, .lightyellow-text a{
+	color: #fef984 !important;
+}
+
+.black-text-hover-e:hover *, .black-text-e *, .black-text-hover-p:hover, .black-text-hover-p:hover *, .black-text-p, .black-text-p *, .black-text-hover:hover, .black-text, .black-text a{
+	color: black !important;
+}
+
+.gray-text-hover-e:hover *, .gray-text-e *, .gray-text-hover-p:hover, .gray-text-hover-p:hover *, .gray-text-p, .gray-text-p *, .gray-text-hover:hover, .gray-text, .gray-text a{
+	color: gray !important;
+}
+
+.lightgray-text-hover-e:hover *, .lightgray-text-e *, .lightgray-text-hover-p:hover, .lightgray-text-hover-p:hover *, .lightgray-text-p, .lightgray-text-p *, .lightgray-text-hover:hover, .lightgray-text, .lightgray-text a{
+	color: lightgray !important;
+}
+
+/*borders*/
+
+.border-darker-hover-e:hover *, .border-darker-e *, .border-darker-hover-p:hover, .border-darker-hover-p:hover *, .border-darker-p, .border-darker-p *, .border-darker-hover:hover, .border-blue {
+	border-color: #2a3535 !important;
+}
+
+.border-dark-hover-e:hover *, .border-dark-e *, .border-dark-hover-p:hover, .border-dark-hover-p:hover *, .border-dark-p, .border-dark-p *, .border-dark-hover:hover, .border-blue {
+	border-color: #343a40 !important;
+}
+
+.border-bluish-hover-e:hover *, .border-bluish-e *, .border-bluish-hover-p:hover, .border-bluish-hover-p:hover *, .border-bluish-p, .border-bluish-p *, .border-bluish-hover:hover, .border-blue {
+	border-color: #006399 !important;
+}
+
+.border-lightyellow-hover-e:hover *, .border-lightyellow-e *, .border-lightyellow-hover-p:hover, .border-lightyellow-hover-p:hover *, .border-lightyellow-p, .border-lightyellow-p *, .border-lightyellow-hover:hover, .border-lightyellow {
+	border-color: #fef984 !important;
+}
+
+.border-yellow-hover-e:hover *, .border-yellow-e *, .border-yellow-hover-p:hover, .border-yellow-hover-p:hover *, .border-yellow-p, .border-yellow-p *, .border-yellow-hover:hover, .border-yellow {
+	border-color: #ffd300 !important;
+}
+
+.border-white-hover-e:hover *, .border-white-e *, .border-white-hover-p:hover, .border-white-hover-p:hover *, .border-white-p, .border-white-p *, .border-white-hover:hover, .border-white {
+	border-color: white !important;
+}
+
+.border-gray-hover-e:hover *, .border-gray-e *, .border-gray-hover-p:hover, .border-gray-hover-p:hover *, .border-gray-p, .border-gray-p *, .border-gray-hover:hover, .border-gray {
+	border-color: gray !important;
+}
+
+.border-lightgray-hover-e:hover *, .border-lightgray-e *, .border-lightgray-hover-p:hover, .border-lightgray-hover-p:hover *, .border-lightgray-p, .border-lightgray-p *, .border-lightgray-hover:hover, .border-lightgray {
+	border-color: lightgray !important;
+}
+
+.border-lightblue-hover-e:hover *, .border-lightblue-e *, .border-lightblue-hover-p:hover, .border-lightblue-hover-p:hover *, .border-lightblue-p, .border-lightblue-p *, .border-lightblue-hover:hover, .border-lightblue {
+	border-color: lightblue !important;
+}
+
+.border-min{
+	border-width: 1px !important;
+}
+
+/*border-radii*/
+
+.rounded.not-rounded-bottom-right{
+	border-bottom-right-radius: 0px !important;
+}
+
+.rounded.not-rounded-bottom-left{
+	border-bottom-left-radius: 0px !important;
+}
+
+.rounded.not-rounded-top-right{
+	border-top-right-radius: 0px !important;
+}
+
+.rounded.not-rounded-top-left{
+	border-top-left-radius: 0px !important;
+}
+
+.dropdown-menu.not-rounded-bottom-right{
+	border-bottom-right-radius: 0px !important;
+}
+
+.dropdown-menu.not-rounded-bottom-left{
+	border-bottom-left-radius: 0px !important;
+}
+
+.dropdown-menu.not-rounded-top-right{
+	border-top-right-radius: 0px !important;
+}
+
+.dropdown-menu.not-rounded-top-left{
+	border-top-left-radius: 0px !important;
+}
+
+.not-rounded-bottom-right{
+	border-bottom-right-radius: 0px !important;
+}
+
+.not-rounded-bottom-left{
+	border-bottom-left-radius: 0px !important;
+}
+
+.not-rounded-top-right{
+	border-top-right-radius: 0px !important;
+}
+
+.not-rounded-top-left{
+	border-top-left-radius: 0px !important;
+}
